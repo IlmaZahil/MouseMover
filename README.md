@@ -1,1 +1,1 @@
-# MouseMover 🖱️
+# Mouse Mover 🖱️
